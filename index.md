@@ -5,3 +5,7 @@ Das ist ein schöner Text zu, Beschreiben meins Charakters. dfdsf fsf dsd atrtr 
 * liebt schokol
 * asdd ddas
 * dasd dsad
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
